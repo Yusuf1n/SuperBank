@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,7 +6,7 @@ namespace SuperBank
 {
     class BankAccount
     {
-        public int Number { get; set; }
+        public long Number { get; set; }
         public string Owner { get; set; }
         public decimal Balance { get; set; }
 
@@ -99,4 +99,3 @@ namespace SuperBank
         }
     }
 }
-
