@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 
 namespace SuperBank
@@ -17,7 +17,7 @@ namespace SuperBank
             account.Owner = Console.ReadLine();
 
             Console.Write($"\nHi {account.Owner}, please enter your 10 digit account number: ");
-            account.Number = Int32.Parse(Console.ReadLine());
+            account.Number = long.Parse(Console.ReadLine());
 
             for (int i = 1; i > 0; i++)
             {
@@ -31,7 +31,7 @@ namespace SuperBank
                     Console.WriteLine("\nAccount Number must be 10 digits long");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.Write("\nPlease try again: ");
-                    account.Number = Int32.Parse(Console.ReadLine());
+                    account.Number = long.Parse(Console.ReadLine());
                 }
             }
 
