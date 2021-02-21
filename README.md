@@ -12,3 +12,6 @@ Super Bank - C# Console Application
 6. Withdrawals cannot result in a negative balance.
 7. The balance can be retrieved.
 8. The account history can be retrieved.
+
+### SuperBank - Demo
+![Untitled mp4 gif](https://user-images.githubusercontent.com/71137409/108632173-6c27d200-7465-11eb-89ac-0da62fa3c71d.gif)
