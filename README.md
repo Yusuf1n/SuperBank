@@ -15,3 +15,4 @@ Super Bank - C# Console Application
 
 ### SuperBank - Demo
 ![Untitled mp4 gif](https://user-images.githubusercontent.com/71137409/108632173-6c27d200-7465-11eb-89ac-0da62fa3c71d.gif)
+or visit this link: https://user-images.githubusercontent.com/71137409/108632056-e1df6e00-7464-11eb-89db-9aa05dfc5503.mp4
